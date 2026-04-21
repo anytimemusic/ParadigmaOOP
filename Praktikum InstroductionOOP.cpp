@@ -26,6 +26,7 @@ int main(){
         elektronik.tanggalProduksi = "1945-08-17";
         elektronik.tampilSpek();
 
+        cout << endl;
 
         nonElektronik.nama = "supersemar";
         nonElektronik.jumlah = 1;
